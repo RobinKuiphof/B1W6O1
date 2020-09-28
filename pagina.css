@@ -40,3 +40,14 @@ p:nth-of-type(2){
 	border: 4px;
 	padding: 25px;
 }
+h2:nth-of-type(1){
+	background-color: #def6ed;
+	border: 4px;
+	padding: 25px;
+}
+a{
+	margin-right: 25px;
+	margin-left: 25px;
+	text-decoration: none;
+	border: 3px;
+}
