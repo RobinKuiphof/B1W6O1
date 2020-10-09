@@ -54,3 +54,6 @@ a{
 	text-decoration: none;
 	border: 3px;
 }
+span{
+	font-weight: bold;
+}
